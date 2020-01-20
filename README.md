@@ -1,5 +1,7 @@
 # go-ipfs in docker
 
+Reference: https://github.com/ipfs/go-ipfs
+
 ## Start
 
 `docker-compose up -d`
